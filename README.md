@@ -1,11 +1,11 @@
-Atmospheric Model Evaluation Tool
+MAQM Atmospheric Model Evaluation Tool
 ======
 
 ## AMETv1.5
 
 Atmospheric Model Evaluation Tool (AMET) website: (https://www.epa.gov/cmaq/atmospheric-model-evaluation-tool)
 
-The Atmospheric Model Evaluation Tool (AMET) is a suite of software designed to facilitate the analysis and evaluation of predictions from meteorological and air quality models. AMET matches the model output for particular locations to the corresponding observed values from one or more networks of monitors. These pairings of values (model and observation) are then used to statistically and graphically analyze the model’s performance.
+MAQM Atmospheric Evaluation is an exended version of Atmospheric Model Evaluation Tool (AMET) designed to facilitate the analysis and evaluation of predictions from meteorological and air quality models. AMET matches the model output for particular locations to the corresponding observed values from one or more networks of monitors. These pairings of values (model and observation) are then used to statistically and graphically analyze the model’s performance.
 
 [Frequently asked questions for upgrading to the latest AMET version](docs/AMET_FAQ.md) - Updated for v1.5 release.
 
